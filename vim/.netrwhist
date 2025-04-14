@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/sascha/Code/cards/holidays/2024'
+let g:netrw_dirhist_7='/Users/sascha/.vim'
+let g:netrw_dirhist_6='/Users/sascha/Code/cards/holidays/2023'
+let g:netrw_dirhist_5='/Users/sascha/Code/cards/holidays'
+let g:netrw_dirhist_4='/Users/sascha/Code/cards/birthdays'
+let g:netrw_dirhist_3='/Users/sascha/.oh-my-zsh'
+let g:netrw_dirhist_2='/Users/sascha/.zsh'
+let g:netrw_dirhist_1='/Users/sascha/.config'
